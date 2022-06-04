@@ -1,4 +1,4 @@
-### Hello 👋
+# Hey there👋
 
 I'm Aline Cristine 👩🏽
 
@@ -16,9 +16,8 @@ Always open to new challenges and adapt well to changes.
 ### 🌍 "Knowledge is itself a power" 🧠
 
 ### <div>
-📍 From Brazil in the interior of SP.
+- 📍 From Brazil in the interior of SP.
 
 <a href="https://www.linkedin.com/in/alinecristinesd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/LyneCrist" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
-
