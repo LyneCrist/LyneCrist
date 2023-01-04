@@ -11,7 +11,7 @@ I am passionate about solving problems through design and programming, I adapt w
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 
-### 🌍 "knowledge itself is an power" 🧠
+### 🌍 "Knowledge is the foundation for innovation." 🧠
 
 ### <div>
 - 📍 From Brazil in countryside of São Paulo.
