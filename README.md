@@ -13,6 +13,8 @@ I am passionate about solving problems through design and programming, I adapt w
 <img height="26" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> &nbsp;
 <img height="26" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> &nbsp;
 <img height="26" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> &nbsp;
+<img height="26" alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"> &nbsp;
+
 
 ### 🌍 "Knowledge is the foundation for innovation." 🧠
 
